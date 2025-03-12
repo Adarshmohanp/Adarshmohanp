@@ -1,2 +1,2 @@
-# 👋 Hello, I'm # Adarsh Mohan P!
+# 👋 Hello, I'm  Adarsh Mohan P!
 
