@@ -1,4 +1,4 @@
-# 👋 Hello, I'm  Adarsh Mohan 
+# 👋 Hello, I'm  Adarsh Mohan p
 
 # 💫 About Me:
 Computer Science Student at SOE,CUSAT
